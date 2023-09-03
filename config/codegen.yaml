@@ -1,6 +1,6 @@
 schema:
     - ./config/schema.graphql
 generates:
-    types/entities.go:
+    entities.go:
       config:
-        packageName: types
+        packageName: datakit
