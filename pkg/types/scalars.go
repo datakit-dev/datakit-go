@@ -1,4 +1,4 @@
-package datakit_cloud
+package types
 
 type DateTime string
 

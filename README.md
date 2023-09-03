@@ -1,5 +1,5 @@
 # datakit-go
-Go types for DataKit Cloud GraphQL services.
+Go types and clients for DataKit Cloud GraphQL & QueryProxy services.
 
 This Go module is used primarily internally for `dtkt` (DataKit CLI) and other services. Can be used for Go projects looking to integrate with DataKit Cloud.
 
