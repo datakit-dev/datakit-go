@@ -1,4 +1,4 @@
-package datakit
+package graphql
 
 type DateTime string
 
