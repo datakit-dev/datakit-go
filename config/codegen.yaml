@@ -1,0 +1,11 @@
+schema:
+    - ./config/schema.graphql
+generates:
+    pkg/datakit_cloud/entities.go:
+      config:
+        packageName: datakit_cloud
+        entities:
+          - Workspace
+          - Schema
+          - Table
+          - Column
