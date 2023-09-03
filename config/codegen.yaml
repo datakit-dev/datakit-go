@@ -1,11 +1,6 @@
 schema:
     - ./config/schema.graphql
 generates:
-    pkg/types/entities.go:
+    types/entities.go:
       config:
         packageName: types
-        # entities:
-        #   - Workspace
-        #   - Schema
-        #   - Table
-        #   - Column
